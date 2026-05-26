@@ -1,0 +1,55 @@
+{
+  "name": "com.mayamystic.logger",
+  "version": "1.0.0",
+  "displayName": "MayaMystic Logger",
+  "description": "Modular and scalable logging framework for Unity. Provides structured logging, configurable log levels, category-based logging, console output management, runtime logger configuration, formatting utilities, and extensible logging architecture for production-ready Unity applications.",
+  "unity": "2021.3",
+
+  "icon": "icon.png",
+
+  "author": {
+    "name": "Harsh Patel",
+    "company": "MayaMystic",
+    "url": "https://github.com/HarshPatel19011995"
+  },
+
+  "keywords": [
+    "logger",
+    "logging",
+    "debug",
+    "console",
+    "runtime",
+    "unity",
+    "framework",
+    "logs",
+    "diagnostics",
+    "debugging",
+    "exception",
+    "monitoring",
+    "development",
+    "tool"
+  ],
+
+  "license": "Proprietary",
+
+  "licensesUrl": "https://github.com/HarshPatel19011995/MayaMystic-Logger/blob/main/LICENSE.md",
+
+  "samples": [
+    {
+      "displayName": "Basic Usage",
+      "description": "Demonstrates structured logging, log categories, log levels, and runtime logger usage.",
+      "path": "Samples~/Basic Usage"
+    }
+  ],
+
+  "documentationUrl": "Documentation~/README.md",
+
+  "changelogUrl": "https://raw.githubusercontent.com/HarshPatel19011995/MayaMystic-Logger/main/CHANGELOG.md",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarshPatel19011995/MayaMystic-Logger"
+  },
+
+  "homepage": "https://github.com/HarshPatel19011995/MayaMystic-Logger"
+}

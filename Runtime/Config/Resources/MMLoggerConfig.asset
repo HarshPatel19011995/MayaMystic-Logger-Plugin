@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d3294bd4da04114b8c2d83ad5a1f041, type: 3}
+  m_Name: MMLoggerConfig
+  m_EditorClassIdentifier: Assembly-CSharp::MayaMystic.Logger.Config.MMLoggerConfig
+  enableLogging: 1
+  enableVerboseLogging: 1
+  showTimestamp: 1
+  showLogType: 1
+  showCategory: 1
+  showClassName: 1
+  showMethodName: 1
+  showFileName: 1
+  enableStackTraceForErrors: 1
+  enableStackTraceForWarnings: 0
