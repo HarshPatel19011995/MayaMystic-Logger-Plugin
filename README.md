@@ -1,0 +1,1 @@
+# MayaMystic-Logger-Plugin
