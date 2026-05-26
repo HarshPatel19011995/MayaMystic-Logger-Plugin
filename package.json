@@ -32,7 +32,7 @@
 
   "license": "Proprietary",
 
-  "licensesUrl": "https://github.com/HarshPatel19011995/MayaMystic-Logger/blob/main/LICENSE.md",
+  "licensesUrl": "https://github.com/HarshPatel19011995/MayaMystic-Logger-Plugin/blob/main/LICENSE.md",
 
   "samples": [
     {
@@ -42,14 +42,14 @@
     }
   ],
 
-  "documentationUrl": "Documentation~/README.md",
+  "documentationUrl": "https://harshpatel19011995.github.io/MayaMystic-Logger-Plugin-Plugin/index.html",
 
-  "changelogUrl": "https://raw.githubusercontent.com/HarshPatel19011995/MayaMystic-Logger/main/CHANGELOG.md",
+  "changelogUrl": "https://raw.githubusercontent.com/HarshPatel19011995/MayaMystic-Logger-Plugin-Plugin/main/CHANGELOG.md",
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/HarshPatel19011995/MayaMystic-Logger"
+    "url": "https://github.com/HarshPatel19011995/MayaMystic-Logger-Plugin"
   },
 
-  "homepage": "https://github.com/HarshPatel19011995/MayaMystic-Logger"
+  "homepage": "https://github.com/HarshPatel19011995/MayaMystic-Logger-Plugin"
 }
